@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "RTX 2060 MSI",
+    "cantidad": 1,
+    "desc": "Placa de video con 6GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos medios/altos",
+    "precio": 150000,
+    "img": "img/serie2000/2060-msi.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "RTX 2070 Gigabyte",
+    "cantidad": 1,
+    "desc": "Placa de video con 6GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos medios/altos",
+    "precio": 165000,
+    "img": "img/serie2000/2070-gigabyte.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "RTX 2080 Gigabyte",
+    "cantidad": 1,
+    "desc": "Placa de video con 6GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos altos/ultra",
+    "precio": 180000,
+    "img": "img/serie2000/2080-gigabyte.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "RTX 3060 ZOTAC",
+    "cantidad": 1,
+    "desc": "Placa de video con 6GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 1080p",
+    "precio": 220000,
+    "img": "img/serie3000/3060-zotac.png"
+  },
+  {
+    "id": 5,
+    "nombre": "RTX 3070 Ti ZOTAC",
+    "cantidad": 1,
+    "desc": "Placa de video con 8GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 1080 o 2k.",
+    "precio": 270000,
+    "img": "img/serie3000/3070ti-zotac.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "RTX 3080 XLR8",
+    "cantidad": 1,
+    "desc": "Placa de video con 12GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 2k y 4k",
+    "precio": 300000,
+    "img": "img/serie3000/3080-xlr8.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "RTX 3090 EVGA",
+    "cantidad": 1,
+    "desc": "Placa de video con 12GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 4k",
+    "precio": 380000,
+    "img": "img/serie3000/3090-evea.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "RTX 4070Ti ZOTAC",
+    "cantidad": 1,
+    "desc": "Placa de video con 12GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 4k y 8k",
+    "precio": 790000,
+    "img": "img/serie4000/4070ti-zotac.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "RTX 4080 GAINWARD",
+    "cantidad": 1,
+    "desc": "Placa de video con 12GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a  8k",
+    "precio": 820000,
+    "img": "img/serie4000/4080-gainward.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "RTX 4090",
+    "cantidad": 1,
+    "desc": "Placa de video con 24 GB de VRAM, ideal para juegos de ultima generación con RTX en gráficos ultra a 8k",
+    "precio": 1000000,
+    "img": "img/serie4000/4090-zotac.jpg"
+  }
+]
